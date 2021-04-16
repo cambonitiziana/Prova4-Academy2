@@ -1,0 +1,7 @@
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.Client\bin\Debug\OM.Client.exe.config
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.Client\bin\Debug\OM.Client.exe
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.Client\bin\Debug\OM.Client.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.Client\obj\Debug\OM.Client.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.Client\obj\Debug\OM.Client.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.Client\obj\Debug\OM.Client.exe
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.Client\obj\Debug\OM.Client.pdb

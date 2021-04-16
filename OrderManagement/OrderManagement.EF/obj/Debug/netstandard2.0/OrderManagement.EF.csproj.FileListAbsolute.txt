@@ -1,0 +1,12 @@
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\bin\Debug\netstandard2.0\OrderManagement.EF.deps.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\bin\Debug\netstandard2.0\OrderManagement.EF.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\bin\Debug\netstandard2.0\OrderManagement.EF.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\bin\Debug\netstandard2.0\OM.EntityRepo.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\bin\Debug\netstandard2.0\OM.EntityRepo.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\obj\Debug\netstandard2.0\OrderManagement.EF.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\obj\Debug\netstandard2.0\OrderManagement.EF.AssemblyInfoInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\obj\Debug\netstandard2.0\OrderManagement.EF.AssemblyInfo.cs
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\obj\Debug\netstandard2.0\OrderManagement.EF.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\obj\Debug\netstandard2.0\OrderManagement.EF.csproj.CopyComplete
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\obj\Debug\netstandard2.0\OrderManagement.EF.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OrderManagement.EF\obj\Debug\netstandard2.0\OrderManagement.EF.pdb

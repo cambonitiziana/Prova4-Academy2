@@ -1,0 +1,9 @@
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\bin\Debug\netstandard2.0\OM.EntityRepo.deps.json
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\bin\Debug\netstandard2.0\OM.EntityRepo.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\bin\Debug\netstandard2.0\OM.EntityRepo.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\obj\Debug\netstandard2.0\OM.EntityRepo.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\obj\Debug\netstandard2.0\OM.EntityRepo.AssemblyInfoInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\obj\Debug\netstandard2.0\OM.EntityRepo.AssemblyInfo.cs
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\obj\Debug\netstandard2.0\OM.EntityRepo.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\obj\Debug\netstandard2.0\OM.EntityRepo.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.EntityRepo\obj\Debug\netstandard2.0\OM.EntityRepo.pdb

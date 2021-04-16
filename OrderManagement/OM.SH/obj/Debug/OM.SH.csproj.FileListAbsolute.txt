@@ -1,0 +1,13 @@
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\bin\Debug\OM.SH.exe.config
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\bin\Debug\OM.SH.exe
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\bin\Debug\OM.SH.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\bin\Debug\OM.WcfService.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\bin\Debug\OM.EntityRepo.dll
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\bin\Debug\OM.WcfService.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\bin\Debug\OM.WcfService.dll.config
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\bin\Debug\OM.EntityRepo.pdb
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\obj\Debug\OM.SH.csprojAssemblyReference.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\obj\Debug\OM.SH.csproj.CoreCompileInputs.cache
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\obj\Debug\OM.SH.csproj.CopyComplete
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\obj\Debug\OM.SH.exe
+C:\Users\tiziana.camboni\Desktop\Academy\Academy2\Settimana4\ProvaSettimana4\OrderManagement\OM.SH\obj\Debug\OM.SH.pdb

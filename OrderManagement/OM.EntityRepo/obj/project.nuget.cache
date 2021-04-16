@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFj63Z6K86pyE1sIPYP0JWBml7nTrYhF8ZRBZi+3Iatb6AU+o2HOg7+sAdyCBIkDY5g81bgpKTNMlKg4syCwdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tiziana.camboni\\Desktop\\Academy\\Academy2\\Settimana4\\ProvaSettimana4\\OrderManagement\\OM.EntityRepo\\OM.EntityRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiziana.camboni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tiziana.camboni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
